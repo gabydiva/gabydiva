@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/a8/9b/db/a89bdba456c4b368fcf781e29e35f2ac.gif"  />
+<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNudzVtazYwY3dxeWY0Y2E5N2M2Y3V4ZW9yOG9nZnE4aDRobm5neCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AADRgrt19ZLv4bycdV/giphy.gif"  />
 
 ###
 
@@ -39,5 +39,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabydiva/gabydiva/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabydiva/gabydiva/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabydiva/gabydiva/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
