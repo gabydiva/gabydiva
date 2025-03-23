@@ -1,4 +1,4 @@
-<h1 align="left">hey 🐡 what’s up?</h1>
+<h1 align="left">oie! 🐡 tudo bem?</h1>
 
 ###
 
