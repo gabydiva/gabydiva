@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/BjKLiPZw2Tzaag1U5s/giphy.gif?cid=ecf05e47onhegtr6skqzpptwohu9xx2nmf56tspaytl7o8vn&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/a8/9b/db/a89bdba456c4b368fcf781e29e35f2ac.gif"  />
 
 ###
 
