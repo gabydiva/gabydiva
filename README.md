@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="205" src="https://media.giphy.com/media/hERcZGrATBD7OJ7PA2/giphy.gif?cid=ecf05e47uuaoa7gk9wl89skga7ltwn4sxt6zpvzyq2ofnjco&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="205" src="https://media.tenor.com/C5p-J2jAOg0AAAAj/cheer-snoopy.gif"  />
 
 ###
 
