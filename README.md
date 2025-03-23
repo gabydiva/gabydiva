@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="205" src="https://media.tenor.com/C5p-J2jAOg0AAAAj/cheer-snoopy.gif"  />
+<img align="right" height="230" src="https://media.tenor.com/C5p-J2jAOg0AAAAj/cheer-snoopy.gif"  />
 
 ###
 
