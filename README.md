@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">my name is gabriely and i'm system development student from guarulhos, são paulo. ♡</p>
+<p align="left">meu nome é gabriely e eu sou uma estudante de desenvolvimento de sistemas de guarulhos, são paulo. ♡</p>
 
 ###
 
@@ -10,15 +10,15 @@
 
 ###
 
-<h2 align="left">꒰ about me ꒱</h2>
+<h2 align="left">꒰ sobre mim ꒱</h2>
 
 ###
 
-<p align="left">🐻 advanced english speaker<br>⭐ editor as hobby<br>🦪 pop culture lover</p>
+<p align="left">🐻 sei falar inglês avançado;<br>⭐ faço edições como hobby;<br>🦪 sou cronicamente online e amante da cultura pop.</p>
 
 ###
 
-<h2 align="left">꒰ currently learning with ꒱</h2>
+<h2 align="left">꒰ atualmente estou trabalhando com ꒱</h2>
 
 ###
 
