@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">🐻 sei falar inglês avançado;<br>⭐ faço edições como hobby;<br>🦪 sou cronicamente online e amante da cultura pop.</p>
+<p align="left">🐻 estou cursando inglês em módulo avançado;<br>⭐ faço edições para a internet como um hobby;<br>🦪 sou cronicamente online e amante da cultura pop.</p>
 
 ###
 
-<h2 align="left">꒰ atualmente estou trabalhando com ꒱</h2>
+<h2 align="left">꒰ atualmente aprendendo com ꒱</h2>
 
 ###
 
