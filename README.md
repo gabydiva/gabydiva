@@ -1,6 +1,6 @@
 <h1 align="left">oie! 🐡 tudo bem?</h1>
 
-###
+
 
 <p align="left">meu nome é gabriely e eu sou uma estudante de desenvolvimento de sistemas de guarulhos, são paulo. ♡</p>
 
