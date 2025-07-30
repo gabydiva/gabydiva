@@ -1,6 +1,6 @@
-<h1 align="left">oie!tudo bem?</h1>
+<img width="200" height="196" alt="image" src="https://github.com/user-attachments/assets/5fdba1ff-61be-463f-95c7-87c8ca0afe88" /><h1 align="left">oie!tudo bem?</h1>
 <p align="left">meu nome é gabriely e eu sou uma estudante de desenvolvimento de sistemas de guarulhos, são paulo. ♡</p>
-<img align="right" height="230" src="https://media.tenor.com/uuqTsCYHpEkAAAAi/snoopy-esnupi.gif"  />
+<img align="right" height="230" src="https://media.tenor.com/Tg23lKjm_EYAAAAj/twilight-sparkle-pixel-art.gif"  />
 <h2 align="left">꒰ sobre mim ꒱</h2>
 <p align="left">🫧 estou cursando inglês em módulo avançado;<br>⭐ faço edições para a internet como um hobby;<br>🍭 sou cronicamente online e amante da cultura pop.</p>
 <h2 align="left">꒰ atualmente aprendendo com ꒱</h2>
