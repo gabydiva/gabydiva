@@ -1,11 +1,39 @@
-<img width="200" height="196" alt="image" src="https://github.com/user-attachments/assets/5fdba1ff-61be-463f-95c7-87c8ca0afe88"> /><h1 align="left">oie!tudo bem?</h1>
-<p align="left">meu nome é gabriely e eu sou uma estudante de desenvolvimento de sistemas de guarulhos, são paulo. ♡</p>
-<img align="right" height="250" src="https://media.tenor.com/Tg23lKjm_EYAAAAj/twilight-sparkle-pixel-art.gif"  />
-<h2 align="left">꒰ sobre mim ꒱</h2>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">꒰ sobre mim ꒱</h3>
+
+###
+
 <p align="left">🫧 estou cursando inglês em módulo avançado;<br>⭐ faço edições para a internet como um hobby;<br>🍭 sou cronicamente online e amante da cultura pop.</p>
+
 ###
-<h2 align="left">꒰ atualmente aprendendo com ꒱</h2>
+
+<h3 align="left">꒰ atualmente aprendendo com ꒱h3>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -22,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+
+###
 </div>
 
-
+###
