@@ -3,6 +3,7 @@
 <img align="right" height="250" src="https://media.tenor.com/Tg23lKjm_EYAAAAj/twilight-sparkle-pixel-art.gif"  />
 <h2 align="left">꒰ sobre mim ꒱</h2>
 <p align="left">🫧 estou cursando inglês em módulo avançado;<br>⭐ faço edições para a internet como um hobby;<br>🍭 sou cronicamente online e amante da cultura pop.</p>
+###
 <h2 align="left">꒰ atualmente aprendendo com ꒱</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
