@@ -1,4 +1,4 @@
-<img width="200" height="196" alt="image" src="https://github.com/user-attachments/assets/5fdba1ff-61be-463f-95c7-87c8ca0afe88" /><h1 align="left">oie!tudo bem?</h1>
+<img width="200" height="196" alt="image" src="https://github.com/user-attachments/assets/5fdba1ff-61be-463f-95c7-87c8ca0afe88"> /><h1 align="left">oie!tudo bem?</h1>
 <p align="left">meu nome é gabriely e eu sou uma estudante de desenvolvimento de sistemas de guarulhos, são paulo. ♡</p>
 <img align="right" height="250" src="https://media.tenor.com/Tg23lKjm_EYAAAAj/twilight-sparkle-pixel-art.gif"  />
 <h2 align="left">꒰ sobre mim ꒱</h2>
