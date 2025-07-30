@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media.tenor.com/Tg23lKjm_EYAAAAi/twilight-sparkle-pixel-art.gif)"  />
+  <img height="300" src="https://media.tenor.com/Tg23lKjm_EYAAAAi/twilight-sparkle-pixel-art.gif)"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">꒰ atualmente aprendendo com ꒱h3>
+<h3 align="left">꒰ atualmente aprendendo com ꒱ </h3>
 
 ###
 
