@@ -5,6 +5,7 @@
 <p align="left">🫧 estou cursando inglês em módulo avançado;<br>⭐ faço edições para a internet como um hobby;<br>🍭 sou cronicamente online e amante da cultura pop.</p>
 ###
 <h2 align="left">꒰ atualmente aprendendo com ꒱</h2>
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
