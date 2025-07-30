@@ -1,8 +1,8 @@
-<h1 align="left">oie! 🐡 tudo bem?</h1>
+<h1 align="left">oie!tudo bem?</h1>
 <p align="left">meu nome é gabriely e eu sou uma estudante de desenvolvimento de sistemas de guarulhos, são paulo. ♡</p>
 <img align="right" height="230" src="https://media.tenor.com/uuqTsCYHpEkAAAAi/snoopy-esnupi.gif"  />
 <h2 align="left">꒰ sobre mim ꒱</h2>
-<p align="left">🐻 estou cursando inglês em módulo avançado;<br>⭐ faço edições para a internet como um hobby;<br>🦪 sou cronicamente online e amante da cultura pop.</p>
+<p align="left">🫧 estou cursando inglês em módulo avançado;<br>⭐ faço edições para a internet como um hobby;<br>🍭 sou cronicamente online e amante da cultura pop.</p>
 <h2 align="left">꒰ atualmente aprendendo com ꒱</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
